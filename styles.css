@@ -1,8 +1,7 @@
 body{
     background-color: blue;
 }
-h1{
-    color: white;
-    margin 50px
-    background-color: blue;
+p{
+    color: brown;
+    font-size: 150px;
 }
